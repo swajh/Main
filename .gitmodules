@@ -1,0 +1,3 @@
+[submodule "SubModule_Name"]
+	path = SubModule_Name
+	url = https://github.com/swajh/Main.git
